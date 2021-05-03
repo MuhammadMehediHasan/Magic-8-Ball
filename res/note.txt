@@ -1,0 +1,9 @@
+= Magic 8 Bot =
+===============
+This is a simple c# application! It response is simmiler to Magic 8 Ball!
+
+Try this out and ask funny question!
+
+
+Download Link: <link> (24.0 KB)
+Source Link: <link> (Github)
